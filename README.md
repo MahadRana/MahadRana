@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mahad Rana 👋
 
-<!--
-**MahadRana/MahadRana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Computer Science student at Stevens Institute of Technology with a passion for software development, machine learning, and problem-solving.
 
-Here are some ideas to get you started:
+### 👨‍💻 What I do:
+- 🚀 Developing full-stack applications, focusing on creating scalable and efficient solutions.
+- 🤖 Working with AI and machine learning to solve real-world problems and enhance user experiences.
+- 🧠 Exploring the latest technologies in software development and always improving my technical skill set.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack:
+- **Languages:** Python, Java, C++, C, JavaScript
+- **Frameworks:** React, Express, PyTorch, .NET
+- **Tools:** Git, AWS, MongoDB, Linux, Docker, Visual Studio
+
+### 📫 How to reach me:
+- **Email:** [mahadmrana@gmail.com](mailto:mahadmrana@gmail.com)
+- **LinkedIn:** [Mahad Rana](https://linkedin.com/in/mahad-rana)
